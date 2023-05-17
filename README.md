@@ -8,6 +8,8 @@ Release copies of Extetho contain no mod files and are packaged as Modrinth modp
 ***
 
 ## FAQ
+- **What JVM Arguments should I use?**
+On top of the RAM allocation, check [JVM.txt](https://github.com/BT-47/Extetho/blob/main/jvm.txt).
 - **Why does it load so slow?**  
 Forge.
 - **Why does my game perform worse than on Nano or Atlas?**  
