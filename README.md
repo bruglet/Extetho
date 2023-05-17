@@ -8,6 +8,8 @@ Release copies of Extetho contain no mod files and are packaged as Modrinth modp
 ***
 
 ## FAQ
+- **Why does it load so slow?**  
+Forge.
 - **Why does my game perform worse than on Nano or Atlas?**  
 More mods and most importantly Optifine. This is why we usually use Sodium instead but it's not available in this case.
 - **Is there any way to make the game run better?**  
@@ -16,5 +18,7 @@ Make sure you're allocating at least 6GB of RAM to the instance and play around 
 Make sure you're using latest version of Forge and Java 17. Otherwise idfk
 - **Why are there missing mods?**  
 Not everything is compatible with one another so there had to be sacrifices.
+- **Where can I report a bug?**  
+Not my problem unless it's game breaking to where the game is unplayable. (Then I might fix it)
 - **Can you help me fix my Minecraft? :(**  
 No.
