@@ -8,13 +8,13 @@ Release copies of Extetho contain no mod files and are packaged as Modrinth modp
 ***
 
 ## FAQ
-- **Why does my game perform worse than on Nano or Atlas?**
+- **Why does my game perform worse than on Nano or Atlas?**  
 More mods and most importantly Optifine. This is why we usually use Sodium instead but it's not available in this case.
-- **Is there any way to make the game run better?**
+- **Is there any way to make the game run better?**  
 Make sure you're allocating at least 6GB of RAM to the instance and play around with Optifine Settings. Set Render Distance to 12 or below, and don't use shaders.
-- **Why did my game crash / won't load?**
+- **Why did my game crash / won't load?**  
 Make sure you're using latest version of Forge and Java 17. Otherwise idfk
-- **Why are there missing mods?**
+- **Why are there missing mods?**  
 Not everything is compatible with one another so there had to be sacrifices.
-- **Can you help me fix my Minecraft? :(**
+- **Can you help me fix my Minecraft? :(**  
 No.
