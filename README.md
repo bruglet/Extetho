@@ -11,7 +11,7 @@ Release copies of Extetho contain no mod files and are packaged as Modrinth modp
 - **Why does my game perform worse than on Nano or Atlas?**  
 More mods and most importantly Optifine. This is why we usually use Sodium instead but it's not available in this case.
 - **Is there any way to make the game run better?**  
-Make sure you're allocating at least 6GB of RAM to the instance and play around with Optifine Settings. Set Render Distance to 12 or below, and don't use shaders.
+Make sure you're allocating at least 6GB of RAM to the instance and play around with Optifine Settings. Set Render Distance to 12 or below, and don't use shaders. This is as far as it goes.
 - **Why did my game crash / won't load?**  
 Make sure you're using latest version of Forge and Java 17. Otherwise idfk
 - **Why are there missing mods?**  
