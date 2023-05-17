@@ -15,7 +15,7 @@ More mods and most importantly Optifine. This is why we usually use Sodium inste
 - **Is there any way to make the game run better?**  
 Make sure you're allocating at least 6GB of RAM to the instance and play around with Optifine Settings. Set Render Distance to 12 or below, and don't use shaders. This is as far as it goes.
 - **Why did my game crash / won't load?**  
-Make sure you're using latest version of Forge and Java 17. Try using Prism Launcher. Otherwise idfk
+Make sure you're using latest version of Forge and Java 8. Try using Prism Launcher. Otherwise idfk
 - **Why are there missing mods?**  
 Not everything is compatible with one another so there had to be sacrifices.
 - **Where can I report a bug?**  
