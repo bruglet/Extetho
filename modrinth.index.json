@@ -1,0 +1,277 @@
+{
+    "dependencies": {
+        "forge": "36.2.39",
+        "minecraft": "1.16.5"
+    },
+    "files": [
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.16.x-2.4.0/appleskin-forge-mc1.16.x-2.4.0.jar"
+            ],
+            "fileSize": 47735,
+            "hashes": {
+                "sha1": "556ba3ebdb401e0833e7151e7a7bca5f8fdac160",
+                "sha512": "e94a3e14d70d8b0714046339d916cf69f72a88ef1ab0d9800b29e57322303df1b2392d42ad89033242cfe54460973310232f17d1eb1c0cc8e1c353b32fe6bb01"
+            },
+            "path": "mods/appleskin-forge-mc1.16.x-2.4.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/NvZ9ZhwE/versions/1.6-49/AutoRegLib-1.6-49.jar"
+            ],
+            "fileSize": 57279,
+            "hashes": {
+                "sha1": "921cf73b9d31bce5d332115a5144c3fca2010f93",
+                "sha512": "226bc91622dbbb1f937d366f35221326d310325d4a5f59f370c14347b7d4b6a03a3e11e3282c0528e40badda62edcc60eee562638363e9be76c085973eabff50"
+            },
+            "path": "mods/AutoRegLib-1.6-49.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/pfjLUfGv/versions/r2awMhqz/Botania-1.16.5-420.3.jar"
+            ],
+            "fileSize": 15046675,
+            "hashes": {
+                "sha1": "561b20994937a19e800a96ee0c5708eaa0e46e7c",
+                "sha512": "3a0f23b16e653f57266c397ce581e0e183ec7b4c3c2d62f7d4211cf1dc37403de2438dce92e1f465e3277d71f88558c32786943b98ea0e8682b5ce2b792707b1"
+            },
+            "path": "mods/Botania-1.16.5-420.3.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/e0M1UDsY/versions/HMuqiDvH/collective-1.16.5-5.49.jar"
+            ],
+            "fileSize": 189273,
+            "hashes": {
+                "sha1": "e51cc63cedb972ff018aa75a5381ca0eec24deee",
+                "sha512": "ec6868899c01cc3b8f20a53ef598ebdb820d3d8ce3487236f17acefece63d71361db279fe5e4d3d6ed037a14a0d6f8147737c48084ce02a98297d16d6ee42c64"
+            },
+            "path": "mods/collective-1.16.5-5.49.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/SaCpeal4/versions/hQP0wrCY/comforts-forge-1.16.5-4.0.1.5.jar"
+            ],
+            "fileSize": 227056,
+            "hashes": {
+                "sha1": "1f186af5e871419feeb2c03d60b7908994956c3c",
+                "sha512": "b129e0cd530e12cedf41796b797c5ca3a832b1786c568c4f4851fab3c9b25fd07a8fb84e3af0d6eb4f2336e87b67a7cb916d70f945d96c9c0eeaf8eb45e99a49"
+            },
+            "path": "mods/comforts-forge-1.16.5-4.0.1.5.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/OsZiaDHq/versions/2.2.1/CreativeCore_v2.2.1_mc1.16.5.jar"
+            ],
+            "fileSize": 631207,
+            "hashes": {
+                "sha1": "3ebaf255fd6aff4fc3e25422981a2f07b4dc4cd3",
+                "sha512": "d6d62639058338bb0dce9992d27f58d78264d9c4f4c651dc1b2f2701084026a3a982ddfaec9d3d01bd41167f2129dc318cbe22b5bb0da7b80bd6321fb622bfb1"
+            },
+            "path": "mods/CreativeCore_v2.2.1_mc1.16.5.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/vvuO3ImH/versions/BcHPbGLy/curios-forge-1.16.5-4.0.8.2.jar"
+            ],
+            "fileSize": 277848,
+            "hashes": {
+                "sha1": "25df638beedfd5a339eaeeea15a93d3708dc4116",
+                "sha512": "262b3f2b4871b6f5952ad44ff2916d633a7ed3d832844a215aaf83219a704d1c5023a5350f2b2298e85af1474355497d40bf5c8f5f1cdd3347aecb223d82a551"
+            },
+            "path": "mods/curios-forge-1.16.5-4.0.8.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/4Zf7J76Q/versions/3uzwtgUK/Enhanced-Mushrooms-1.16.5-3.0.9.jar"
+            ],
+            "fileSize": 595415,
+            "hashes": {
+                "sha1": "621826bda63cb0401969111b564998e51afb7e3a",
+                "sha512": "74ab12274f8d22e6552e0e501564486fc002cd1a401bea6728321b41ae3f92f7cac026be5b82d71948ce5939965f109b1d337fb026919e2d4c5b1760f74bc03a"
+            },
+            "path": "mods/Enhanced-Mushrooms-1.16.5-3.0.9.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-forge-1.16/entityculling-forge-mc1.16.5-1.5.2.jar"
+            ],
+            "fileSize": 46532,
+            "hashes": {
+                "sha1": "01a838e9fc804dee41fca6045012569fc5df42ce",
+                "sha512": "90d9f430d17701ab41276d5f970f078192e7ef87e57f6d1ca7dcb0710ab5a19c07c5bd9762e1ab5cb4cd46aa391d3ecdadbae405936bb563264ee9155f2fa0bc"
+            },
+            "path": "mods/entityculling-forge-mc1.16.5-1.5.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/k2ZPuTBm/versions/1.0.0/Essential-forge_1-16-5.jar"
+            ],
+            "fileSize": 28175,
+            "hashes": {
+                "sha1": "4f557a1f7353664cd96ceefb390c56fcd6d1b5a1",
+                "sha512": "545b2f06bb464507050758fef9312b067552c472947f15e013564c9c01ecd84939f89815068346f2b782575269eab9f1117a54002810b1e77f3a88b5bcb9c7ea"
+            },
+            "path": "mods/Essential-forge_1-16-5.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/tIm2nV03/versions/5.1.0-148/ImmersiveEngineering-1.16.5-5.1.0-148.jar"
+            ],
+            "fileSize": 9414280,
+            "hashes": {
+                "sha1": "3264b5e3047575faa32d9a32f70c0d0c8039ad37",
+                "sha512": "32ec77b58de89e0e572240672b1371b03ad3e906b9e2660dafc6fb92f3a7436c0e37f70fc36c1912377fb88b7df3f453dd95c4ea7ca2895f85ef45b20fa8b603"
+            },
+            "path": "mods/ImmersiveEngineering-1.16.5-5.1.0-148.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/ZrpxHZN4/versions/1.16.5-2.4.0/infernal-expansion-1.16.5-2.4.0.jar"
+            ],
+            "fileSize": 14521154,
+            "hashes": {
+                "sha1": "2772202c597fe07a23e8066eb981804751d31c82",
+                "sha512": "a5be95edd53085b456c56b64447caad70406a64e5f3e2f9c8f82f38984623dee7345a90ac64e835a64b9e4b7813a19c8d6c07836d040a35e502ba43b2ba4a491"
+            },
+            "path": "mods/infernal-expansion-1.16.5-2.4.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RSb2efqB/jei-1.16.5-7.7.1.152.jar"
+            ],
+            "fileSize": 828677,
+            "hashes": {
+                "sha1": "3cc5fb94d2225af367a04fbc8b288644d6e8ac1b",
+                "sha512": "54819b84bc5905dda17aae2742aff9f8130b992083c9c490aa8625a96392d17354af9e67ceb9b1208ac9732ce1500d37797262b49fc72c49dac47867868efd22"
+            },
+            "path": "mods/jei-1.16.5-7.7.1.152.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/Ce6I4WUE/versions/10.1.2.457/Mekanism-1.16.5-10.1.2.457.jar"
+            ],
+            "fileSize": 11181433,
+            "hashes": {
+                "sha1": "e7ec62394e8ac4b254c4e7cc57360903d7c35980",
+                "sha512": "6b906230132d900cd2d4c76061840793461a9565c32b06e9c63c4732d1308845666ee5ccf3ee970eecd647a1dda173d7f5d8bf893d5a0a812895a6b96c16a114"
+            },
+            "path": "mods/Mekanism-1.16.5-10.1.2.457.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/NRjRiSSD/versions/OiV4duYN/memoryleakfix-forge-pre1.17-1.0.0.jar"
+            ],
+            "fileSize": 153047,
+            "hashes": {
+                "sha1": "a18ea3b931126ea3a26cccc7d1b3b6e39f1af443",
+                "sha512": "9e1d80280284d0544c371e44cbeb7b2033b9190c0d703beee8c4a5f15f6a363b6fcb4b58bb8f81812d72df2fa519dc4a9ff35a8606530826411c9eb5164430df"
+            },
+            "path": "mods/memoryleakfix-forge-pre1.17-1.0.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/aC3cM3Vq/versions/2.14/MouseTweaks-2.14-mc1.16.2.jar"
+            ],
+            "fileSize": 58249,
+            "hashes": {
+                "sha1": "5f2366c650c102c71e98c9445f86a266ba20e1e4",
+                "sha512": "141b6988224f81f485e257d007a4632f50c5c6102742e0ba9f2e5911c19d5b0eae60ddac12326ee14deca2103d8f98627bf5ae48b51e7e532fcd26d3d0b0815c"
+            },
+            "path": "mods/MouseTweaks-2.14-mc1.16.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/nU0bVIaL/versions/1.16.4-53.2-forge/Patchouli-1.16.4-53.2.jar"
+            ],
+            "fileSize": 593114,
+            "hashes": {
+                "sha1": "99d57bfeaf9b046cde2fb68fba283ac26aebc963",
+                "sha512": "4ad6dbd96850ebf9d282c15c97439a4c4cd47bd46b0d1aadf2b435fa68e82d4117526a894adbd9f474bcff66230d0cfb9c7bfacc20b52c5c58b49a3fdb6d89b0"
+            },
+            "path": "mods/Patchouli-1.16.4-53.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/pOeA0exL/versions/1.16-97/Psi%2B1.16-97.jar"
+            ],
+            "fileSize": 2177320,
+            "hashes": {
+                "sha1": "27893311063e7aa462c99222a75ae3ede7846845",
+                "sha512": "eade8b41de5e9dccbd080116ba67c454dfa695315a246dc08ae5455c31f0531cc6e50849a47d9dfd9eaca80f0991c589723d1e0590381ab5dcd67dbb71a53bab"
+            },
+            "path": "mods/Psi 1.16-97.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/qnQsVE2z/versions/WVcMK697/Quark-r2.4-322.jar"
+            ],
+            "fileSize": 8796901,
+            "hashes": {
+                "sha1": "c314a534737baba9416c4947e15f81c6243f9844",
+                "sha512": "59d9aa797f03ccd0c7fa269b9d51ceaadede87ebc4242ecbb9dbbfb5f642a934ead58b59975dcf9f3fcd57686c51b152029dc92097d948248e2660ed5ae5042f"
+            },
+            "path": "mods/Quark-r2.4-322.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/QDNS5oAT/versions/3.4.6%2B1.16.5/repurposed_structures_forge-3.4.6%2B1.16.5.jar"
+            ],
+            "fileSize": 5576427,
+            "hashes": {
+                "sha1": "b6b4b612e6841d607fb26f7b537528bace5a8960",
+                "sha512": "f7abd43a3f0d80ecb1cceac2af1288f15a07ec7a2837fb2ad737a5881f5b7d4b67b79595cdb75e7c1fd7b59a1a777d34b9352f8e7f1226faf7a2d14612b03905"
+            },
+            "path": "mods/repurposed_structures_forge-3.4.6+1.16.5.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/twkfQtEc/versions/1.9.0/selene-1.16.5-1.9.0.jar"
+            ],
+            "fileSize": 218460,
+            "hashes": {
+                "sha1": "bffec3d3ec6bc76858c1dc5d7624c564a7d437ce",
+                "sha512": "b57fe4e2a6b54787b409afadc5b43b8ba910a5b29b00ade7aea39841356acf64800c5cc92fb842ae7b763c1b2be9b485bfc410ce36ced50d0b9eb1adf8210466"
+            },
+            "path": "mods/selene-1.16.5-1.9.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/fFEIiSDQ/versions/Dro1V4Ql/supplementaries-1.16.5-0.18.4.jar"
+            ],
+            "fileSize": 14003305,
+            "hashes": {
+                "sha1": "d913f97d303742f70e6b57b6b4b626d38a3a4906",
+                "sha512": "798c4ef4119240cb12638099b9dd8660725d9f03829eb00af53bf9ff7031902972c8d8dbf6e01564020490c9c2da324e394edb90bb5b770f875bfe0952901050"
+            },
+            "path": "mods/supplementaries-1.16.5-0.18.4.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/gqRXDo8B/versions/zp0TD6tt/villagernames_1.16.5-4.3.jar"
+            ],
+            "fileSize": 11588,
+            "hashes": {
+                "sha1": "ae277a04ba14a710a7698ba35a547ce49fe228c8",
+                "sha512": "946d309a9c26b44450b24783ede0482127632110035c1d23b1b426170215a6cd9505ec44d7fc50755830121f1a5452bb52661dbdf5c5433a5c8b3330d44fa3cf"
+            },
+            "path": "mods/villagernames_1.16.5-4.3.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/9eGKb6K1/versions/OvhnD2bZ/voicechat-forge-1.16.5-2.4.5.jar"
+            ],
+            "fileSize": 7521779,
+            "hashes": {
+                "sha1": "dd0cdcb5d917de21554567e2b7b0342f2005f5d0",
+                "sha512": "86b845e8c9ef9b01b49f5acec962e23ac45ccedceefcdc0dbba4be3726511573ececa7fba423e2927efe62fdbc4b7523274dc698420b78c579318cca39d942d9"
+            },
+            "path": "mods/voicechat-forge-1.16.5-2.4.5.jar"
+        }
+    ],
+    "formatVersion": 1,
+    "game": "minecraft",
+    "name": "Extetho",
+    "summary": "Modified and extended version of Etho's Modded Season 2 modpack for Minecraft Forge 1.16.5.",
+    "versionId": "1.0"
+}
