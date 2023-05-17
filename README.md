@@ -11,19 +11,20 @@ Release copies of Extetho contain no mod files and are packaged as Modrinth modp
 - **What JVM Arguments should I use?**  
 On top of the RAM allocation, check [JVM.txt](https://github.com/BT-47/Extetho/blob/main/jvm.txt).
 - **Why does it load so slow?**  
-Forge.
+This is normal for Forge. Expect 30 seconds to a full minute.
+- **The game throws an error saying it can't allocate memory.**  
+Close all your open apps, including those in the overflow tray.  
+Please note that Extetho is not compatible with systems with less than 12GB of RAM.
+An absolute MINIMUM of 6144MiB must be allocated to the instance or it will fail to start during initialization.
 - **Why does my game perform worse than on Nano or Atlas?**  
 More mods and most importantly Optifine. This is why we usually use Sodium instead but it's not available in this case.
 - **Is there any way to make the game run better?**  
-Make sure you're allocating at least 6GB of RAM to the instance and play around with Optifine Settings. Set Render Distance to 12 or below, and don't use shaders. This is as far as it goes.
+Allocate as much RAM to the instance as you can without running out and play around with Optifine Settings. Set Render Distance to 12 or below, and don't use shaders. This is as far as it goes.
 - **Why did my game crash / won't load?**  
 Make sure you're using latest version of Forge and Java 8. Try using Prism Launcher. Otherwise idfk
 - **Why are there missing mods?**  
 Not everything is compatible with one another so there had to be sacrifices.
 - **Where can I report a bug?**  
 Not my problem unless it's game breaking to where the game is unplayable. (Then I might fix it)
-- **The game throws an error saying it can't allocate memory.**  
-Close all your open apps, including those in the overflow tray.  
-Please note that Extetho is not compatible with systems with less than 16GB of RAM.
 - **Can you help me fix my Minecraft? :(**  
 No.
