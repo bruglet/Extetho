@@ -22,5 +22,8 @@ Make sure you're using latest version of Forge and Java 8. Try using Prism Launc
 Not everything is compatible with one another so there had to be sacrifices.
 - **Where can I report a bug?**  
 Not my problem unless it's game breaking to where the game is unplayable. (Then I might fix it)
+- **The game throws an error saying it can't allocate memory.**  
+Close all your open apps, including those in the overflow tray.  
+Please note that Extetho is not compatible with systems with less than 16GB of RAM.
 - **Can you help me fix my Minecraft? :(**  
 No.
