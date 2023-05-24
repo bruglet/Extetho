@@ -1,5 +1,5 @@
 # Extetho
-Modified and extended version of Etho's Modded Season 2 modpack for Minecraft Forge 1.16.5, specifically designed for Private Use. *Scroll down for FAQ*
+Modified and extended version of Etho's Modded Season 2 modpack formerly for Minecraft Forge 1.16.5 and now updated for 1.19.2, specifically designed for Private Use. *Scroll down for FAQ*
 
 Extetho is a combination of [Ethos Modded Season 2 modpack](https://www.curseforge.com/minecraft/modpacks/ethos-modded-s2), [Better Adventures+](https://www.curseforge.com/minecraft/modpacks/better-adventures-plus), and [Atlas](https://github.com/MeepishRealms/Atlas). Extetho is provided as-is and the developer will not be responsible for any crashes, file corruption, or copyright as a result of using Extetho.
 
@@ -21,7 +21,7 @@ More mods and most importantly Optifine. This is why we usually use Sodium inste
 - **Is there any way to make the game run better?**  
 Allocate as much RAM to the instance as you can without running out and play around with Optifine Settings. Set Render Distance to 12 or below, and don't use shaders. This is as far as it goes.
 - **Why did my game crash / won't load?**  
-Make sure you're using latest version of Forge and Java 8. Try using Prism Launcher. Otherwise idfk
+Make sure you're using latest version of Forge and Java 8 (for v1.x)/Java 17 (for 2.x). Try using Prism Launcher. Otherwise idfk
 - **Why are there missing mods?**  
 Not everything is compatible with one another so there had to be sacrifices.
 - **Where can I report a bug?**  
