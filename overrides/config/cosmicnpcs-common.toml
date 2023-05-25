@@ -1,0 +1,36 @@
+
+[cosmicnpcs]
+	#The char used for formatting npc names
+	formatterChar = "$"
+
+#CosmicNPCs Config
+["Default NPC settings"]
+
+	["Default NPC settings".cosmicnpcs]
+		#Defines if npcs should be able to execute commands
+		canUseCommands = false
+		#Defines the nametag visibility of npcs with a player model (0 = invisible, 1 = always visible, 2 = only visible when looked at)
+		showPlayerNameTags = 1
+		#Defines if npcs should be able to pickup items
+		canPickupItems = false
+		#Defines if npcs should take damage from fire or lava
+		takesFireDamage = true
+		#Defines if npcs should be invulnerable
+		invulnerable = false
+		#Defines if npcs should be able to drown
+		canDrown = true
+		#Defines if npcs should take fall damage
+		takesFallDamage = true
+		#Defines the nametag visibility of npcs with no player model (0 = invisible, 1 = always visible, 2 = only visible when looked at)
+		showMobNameTags = 0
+		#Defines if npcs should repeat their play-backs after finishing
+		loop = false
+		#Defines if npcs should take damage from water or rain
+		takesWaterDamage = false
+		#The prefix used for chat messages send by npcs
+		chatPrefix = "<%s> "
+		#Defines the maximum health points of npcs
+		maxHealth = 20.0
+		#Defines if npcs should persist in the world after finishing the play-back
+		shouldPersist = false
+
