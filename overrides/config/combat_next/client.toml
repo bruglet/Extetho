@@ -13,7 +13,7 @@
 	#For vanilla, this value is 0.
 	#
 	#Range: 0 ~ 2
-	shield_indicator_status = 1
+	shield_indicator_status = 0
 	#Adjusts the vertical offset of the Crosshair Shield Indicator, in pixels.
 	#This will be subtracted from 1/2 of the screen's width.
 	#Higher values will move the Crosshair Shield Indicator left on the screen.

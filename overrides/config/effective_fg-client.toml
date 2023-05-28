@@ -17,7 +17,7 @@
 	"cascade sound range" = 30.0
 	#Defines Cascade Particle Amount.
 	#Range: 0.0 ~ 100.0
-	"cascade particles" = 1.0
+	"cascade particles" = 25.0
 
 ["Water Effects"]
 	#Defines Ripple Particle Amount Display On Calm Water.
@@ -27,5 +27,5 @@
 	#Defines Splash Particle Display Amount Around Flowing Water.
 	#Zero Means No Splash Particles.
 	#Range: 0 ~ 65536
-	"splash abundance" = 50
+	"splash abundance" = 0
 

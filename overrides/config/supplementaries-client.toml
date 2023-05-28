@@ -150,7 +150,7 @@
 	#Allow to right click with a compass to display current coordinates in numerical form
 	compass_right_click = false
 	#Renders an enchantment glint on placeable enchanted books
-	placeable_books_glint = false
+	placeable_books_glint = true
 	#Enables banner pattern tooltip image preview
 	banner_pattern_tooltip = true
 	#Wearing mob heads will apply post processing

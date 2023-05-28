@@ -1,0 +1,29 @@
+
+[Fishing]
+	#Is enabled?
+	enable = true
+	#The delay in ticks before switching back to first person.
+	delay = 50
+
+[Mounting]
+	#Is enabled?
+	enable = true
+	#Is the following list a blacklist? (if false it's a whitelist)
+	isblacklist = false
+	#Black/white list of entities which trigger the event.
+	mount_list = []
+
+[Elytra]
+	#Is enabled?
+	enable = true
+
+["Better Combat"]
+	#Is enabled?
+	enable = true
+	#The delay in ticks before switching back to first person.
+	delay = 70
+	#Number of hits to trigger the event
+	hits = 1
+	#Only trigger the event with hostile mobs?
+	only_hostiles = true
+

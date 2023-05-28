@@ -1,3 +1,4 @@
+!!! THESE ARE CURRENTLY OUTDATED !!!
 PLEASE DOWNLOAD THESE MODS AND PLACE THEM IN THIS FOLDER IF YOU ARE MANUALLY DOWNLOADING
 They are not supplied by default out of respect to the mod creators. Large list is due to many mods not having a 1.16.5 Forge version on Modrinth.
 Use the latest version compatible with Forge 1.16.5 on CurseForge.

@@ -11,5 +11,5 @@
 	#How high the player moves when dodging
 	"Dodge Height" = 0.2
 	#Whether the player can dodge in mid-air
-	"Dodge Whilst Airborne" = false
+	"Dodge Whilst Airborne" = true
 

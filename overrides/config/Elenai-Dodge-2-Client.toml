@@ -1,7 +1,7 @@
 
 ["Elenai Dodge 2's Config"]
 	#Whether to show dodge animations
-	"Dodge Animations" = true
+	"Dodge Animations" = false
 	#Enable this to allow for dodging by double tapping a movement key
 	"Double Tap Mode" = false
 	#How many system ticks you have between double taps for them to register

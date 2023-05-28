@@ -1,7 +1,7 @@
 
 [general]
 	#Whether all players should get an Animal Dictionary when joining the world for the first time.
-	giveBookOnStartup = true
+	giveBookOnStartup = false
 	#Lava Opacity for the Lava Vision Potion.
 	#Range: 0.01 ~ 1.0
 	lavaVisionOpacity = 0.65
@@ -35,7 +35,7 @@
 	#Whether wild raccoons steal food from chests.
 	raccoonStealFromChests = true
 	#Whether fish oil gives players a special levitation effect.
-	fishOilMeme = true
+	fishOilMeme = false
 	#Whether soul vulture spawns should be restricted solely to the nether fossil structure or to whatever biome is specified in their respective biome config.
 	soulVultureSpawnOnFossil = true
 	#Whether acacia blossoms should drop from blocks tagged with #alexsmobs:drops_acacia_blossoms
